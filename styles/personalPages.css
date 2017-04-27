@@ -28,7 +28,8 @@ body {
 	position: relative;
 }
 #banner h1, #banner ul#skipNav {
-	text-indent: 500px;
+	/*text-indent: 500px;*/
+	text-align:center;
 	height: 10px;
 	margin-bottom: 0cm;
 	margin-top: 1cm;
