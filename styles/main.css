@@ -43,6 +43,23 @@ small, p.small {margin: 0; font-size: 0.875em; line-height: 1.714285714285714285
  clear: both;
 }
 
+/*Info*/
+.info-wrap{
+
+}
+.info{
+
+}
+.info h2, #header h2{
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-bottom: .3em;
+}
+.info h4, #header h4{
+  color: #999;
+}
+/*End of Info*/
+
 /* Header */
 #header{
 	margin-bottom: 2em;
