@@ -16,13 +16,13 @@
 
 /* Tabs */
 .etabs{
-  color: #555;
-  font-style: forte;
+	color: #555;
+	font-style: oblique;
 	font-size: 12px;
 	height: 18px;
-  margin: 0;
-  padding: 0px;
-  text-align: center;
+	margin: 0;
+	padding: 0px;
+	text-align: center;
 }
 .etabs li span{
   display: none;
