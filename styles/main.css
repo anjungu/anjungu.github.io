@@ -61,13 +61,13 @@ small, p.small {margin: 0; font-size: 0.875em; line-height: 1.714285714285714285
 /*End of Info*/
 
 /* Header */
+#header #logo{
+	text-align: center;
+}
 #header{
 	margin-bottom: 2em;
 }
-#header #logo{
-	text-align: center;
 
-}
 #header h4{
 	margin-bottom:0px; 
 }
