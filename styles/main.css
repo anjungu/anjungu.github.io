@@ -61,25 +61,9 @@
 .tab a:hover {
 	color: blue;
 	font-style: oblique;
-	font-size: 22px;
 	text-decoration: none;
 }
 
-.tab.active {
-	background: #fff;
-	position: relative;
-	top: 1px;
-	border-color: #f1f1f1;
-	border-bottom: none;
-}
 
-.tab a.active {
-	padding-top: 10px;
-	color: red;
-}
-.tab a i{
-	font-size: 16px;
-	
-}
 
 /*End of Tabs*/
