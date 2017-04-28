@@ -10,6 +10,15 @@ h6 {margin: 0; font-size: 1.125em; line-height: 1.333333333333333333333333333333
 p, ul, blockquote, pre, td, th, label {margin: 0; font-size: 1em; line-height: 1.5em; margin-bottom: 1.5em} /* 16px / 24px */
 small, p.small {margin: 0; font-size: 0.875em; line-height: 1.7142857142857142857142857142857em; margin-bottom: 1.7142857142857142857142857142857em} /* 14px / 24px */
 
+/* Wrapper */
+.main{
+  padding-top: 50px;
+  max-width: 1020px;
+}
+.wrapper{
+  margin: 0 auto;
+}
+
 /*BGs*/
 .bg-fixed {
 	background-repeat: no-repeat;
@@ -25,6 +34,14 @@ small, p.small {margin: 0; font-size: 0.875em; line-height: 1.714285714285714285
 	background-image: url('../images/background.jpg');
 }
 /*End of BGs*/
+
+.clearfix:after { 
+ content: "."; 
+ visibility: hidden; 
+ display: block; 
+ height: 0; 
+ clear: both;
+}
 
 /* Header */
 #header{
