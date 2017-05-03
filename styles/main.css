@@ -245,4 +245,12 @@ footer p{
 .experience li p{
   clear: both;
 }
+.experience li a {
+	text-transform: uppercase;
+	color: black;
+	display: block;
+	padding: 2px 10px;
+	outline: none;
+	text-decoration: none;
+}
 /*End of Experience*/
