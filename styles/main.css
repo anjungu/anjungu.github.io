@@ -255,6 +255,7 @@ footer p{
 }
 .none-a:hover {
 	color: blue;
+	font-size: 125%;
 	background-color: yellow;
 	text-decoration: none;
 }
