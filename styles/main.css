@@ -253,3 +253,8 @@ footer p{
 	outline: none;
 	text-decoration: none;
 }
+.none-a:hover {
+	color: blue;
+	background-color: yellow;
+	text-decoration: none;
+}
