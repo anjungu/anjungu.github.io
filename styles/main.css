@@ -237,12 +237,13 @@ footer p{
   margin-top: 1em;
 }
 .experience li + li:after{
-  border-bottom: 3px solid #f1f1f1;
-  position: absolute;
-  bottom: 50%;
-	left: 0;
+    content:"";
+    background: #ccc;
+    position: absolute;
+    bottom: 25%;
+    left: 0;
     height: 50%;
-  margin-bottom: 1em;
+    width: 1px;
 }
 .experience li span{
   float: right;
