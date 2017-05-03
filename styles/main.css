@@ -18,6 +18,11 @@ small, p.small {margin: 0; font-size: 0.875em; line-height: 1.714285714285714285
 .wrapper{
   margin: 0 auto;
 }
+.no-list{
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+}
 
 /*BGs*/
 .bg-fixed {
@@ -159,3 +164,19 @@ footer p{
 }
 
 /*End of Tabs*/
+
+/* Experience */
+.experience li{
+  border-bottom: 1px solid #f1f1f1;
+  margin-bottom: 2em;
+}
+.experience li span{
+  float: right;
+}
+.experience li h5{
+  float: left;
+}
+.experience li p{
+  clear: both;
+}
+/*End of Experience*/
