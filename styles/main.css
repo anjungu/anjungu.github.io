@@ -257,6 +257,9 @@ footer p{
   clear: both;
 }
 /*End of Experience*/
+.ll{
+	font-family:'Open Sans', sans-serif;color:#444;
+}
 
 .none-a {
 	color: black;
