@@ -233,11 +233,12 @@ footer p{
 
 /* Experience */
 .experience h3{
-  border-top: 5px solid black;
-  margin-bottom: 2em;
+  border-top: 5px solid #f49b42;
+  margin-top: 1em;
 }
 .experience li{
   border-bottom: 3px solid #f1f1f1;
+	border-bottom-width: 15px;
   margin-bottom: 1em;
 }
 .experience li span{
