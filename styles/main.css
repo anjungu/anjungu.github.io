@@ -245,7 +245,9 @@ footer p{
 .experience li p{
   clear: both;
 }
-.experience li a {
+/*End of Experience*/
+
+.none-a {
 	text-transform: uppercase;
 	color: black;
 	display: block;
@@ -253,4 +255,3 @@ footer p{
 	outline: none;
 	text-decoration: none;
 }
-/*End of Experience*/
