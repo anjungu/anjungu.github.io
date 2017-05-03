@@ -232,9 +232,13 @@ footer p{
 /*End of Label*/
 
 /* Experience */
+.experience h3{
+  border-top: 5px solid black;
+  margin-bottom: 2em;
+}
 .experience li{
   border-bottom: 3px solid #f1f1f1;
-  margin-bottom: 2em;
+  margin-bottom: 1em;
 }
 .experience li span{
   float: right;
