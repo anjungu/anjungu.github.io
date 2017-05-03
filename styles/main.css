@@ -238,7 +238,8 @@ footer p{
 }
 .experience li{
   border-bottom: 3px solid #f1f1f1;
-	border-bottom-width: 15px;
+  position: absolute;
+  top: 50%;
   margin-bottom: 1em;
 }
 .experience li span{
