@@ -196,17 +196,23 @@ footer p{
 }
 
 .dropdown:hover .dropdown-content {
-    display: block;
+	display: inline-block;
+	zoom: 1;
+	*display: inline;
 }
 .dropdown-content a {
+	display: inline-block;
+	zoom: 1;
+	*display: inline;
     color: black;
     /*padding: 12px 16px;*/
     text-decoration: none;
-    display: block;
 }
 
 .dropdown a:hover {
-	display: block;
+	display: inline-block;
+	zoom: 1;
+	*display: inline;
 	background-color: #f1f1f1;
 }
 
