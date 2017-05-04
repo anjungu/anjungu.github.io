@@ -197,7 +197,6 @@ footer p{
 
 .dropdown:hover .dropdown-content {
 	display: block;
-	zoom: 1;
 }
 .dropdown-content a {
     color: black;
@@ -208,8 +207,6 @@ footer p{
 
 .dropdown a:hover {
 	display: inline-block;
-	zoom: 1;
-	*display: inline;
 	background-color: #f1f1f1;
 }
 
