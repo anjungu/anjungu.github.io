@@ -146,7 +146,6 @@ footer p{
 .tab a:hover {
 	color: blue;
 	text-decoration: none;
-	background-color: #3e8e41;
 }
 
 .tab:hover, .tab:focus{
