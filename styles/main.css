@@ -126,7 +126,6 @@ footer p{
 	*display: inline;
 	padding: 5px 0px;
 	background: #fff;
-	color: black;
 	border: solid 1px #f1f1f1;
 	border-bottom: 0px;
 	min-width: 150px;
@@ -136,7 +135,7 @@ footer p{
 }
 
 .tab a {
-	color: blue;
+	color: black;
 	text-transform: uppercase;
 	display: block;
 	padding: 2px 0px;
@@ -145,6 +144,7 @@ footer p{
 }
 
 .tab a:hover {
+	color: red;
 	text-decoration: none;
 	background-color: #f1f1f1;
 }
