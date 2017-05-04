@@ -146,8 +146,12 @@ footer p{
 .tab a:hover {
 	color: blue;
 	text-decoration: none;
+	background-color: #f1f1f1;
 }
 
+.tab:hover, .tab:focus{
+    background-color: #3e8e41;
+}
 .tab.active {
 	background: #fff;
 	position: relative;
