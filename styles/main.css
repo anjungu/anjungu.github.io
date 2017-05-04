@@ -149,7 +149,7 @@ footer p{
 	background-color: #f1f1f1;
 }
 
-.tab:hover, .tab:focus{
+.tab:hover{
     background-color: #3e8e41;
 }
 .tab.active {
