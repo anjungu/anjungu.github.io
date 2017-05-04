@@ -176,8 +176,7 @@ footer p{
     cursor: pointer;
 }
 
-.dropbtn:hover, .dropbtn:focus .dropdown-content{
-	display: block;
+.dropbtn:hover, .dropbtn:focus{
     background-color: #3e8e41;
 }
 
@@ -186,6 +185,9 @@ footer p{
     display: inline-block;
 }
 
+.dropdown:hover .dropdown-content {
+    display: block;
+}
 .dropdown-content {
     display: none;
     position: absolute;
