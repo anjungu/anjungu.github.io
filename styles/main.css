@@ -196,9 +196,8 @@ footer p{
 }
 
 .dropdown:hover .dropdown-content {
-	display: inline-block;
+	display: block;
 	zoom: 1;
-	*display: inline;
 }
 .dropdown-content a {
 	display: inline-block;
