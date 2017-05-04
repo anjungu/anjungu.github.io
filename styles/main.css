@@ -183,7 +183,7 @@ footer p{
 
 .dropdown {
     position: relative;
-    display: block;
+    display: inline-block;
 }
 
 .dropdown-content {
