@@ -144,13 +144,13 @@ footer p{
 }
 
 .tab a:hover {
-	color: blue;
+	/*color: blue;*/
 	text-decoration: none;
 	background-color: #f1f1f1;
 }
 
 .tab:hover{
-    background-color: #3e8e41;
+    background-color: #f1f1f1;
 }
 .tab.active {
 	background: #fff;
@@ -182,7 +182,7 @@ footer p{
 }
 
 .dropbtn:hover, .dropbtn:focus{
-    background-color: #3e8e41;
+    background-color: #f1f1f1;
 }
 
 .dropdown {
@@ -201,7 +201,7 @@ footer p{
 
 .dropdown:hover .dropdown-content {
 	display: block;
-	background-color: #3e8e41;
+	background-color: green;
 }
 .dropdown-content a {
     color: black;
@@ -212,7 +212,7 @@ footer p{
 
 .dropdown a:hover {
 	display: inline-block;
-	background-color: #f1f1f1;
+	background-color: red;
 }
 
 .show {display:block;}
