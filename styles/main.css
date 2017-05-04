@@ -176,7 +176,8 @@ footer p{
     cursor: pointer;
 }
 
-.dropbtn:hover, .dropbtn:focus {
+.dropbtn:hover, .dropbtn:focus .dropdown-content{
+	display: block;
     background-color: #3e8e41;
 }
 
