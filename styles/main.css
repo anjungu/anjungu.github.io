@@ -201,6 +201,7 @@ footer p{
 
 .dropdown:hover .dropdown-content {
 	display: block;
+	background-color: #3e8e41;
 }
 .dropdown-content a {
     color: black;
