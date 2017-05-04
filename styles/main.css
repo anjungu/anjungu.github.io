@@ -146,7 +146,7 @@ footer p{
 .tab a:hover {
 	color: blue;
 	text-decoration: none;
-	background-color: #f1f1f1;
+	background-color: #3e8e41;
 }
 
 .tab:hover, .tab:focus{
@@ -199,10 +199,14 @@ footer p{
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
 }
 
-.dropdown:hover .dropdown-content {
+.dropdown:hover {
 	display: block;
 	background-color: #3e8e41;
 }
+.dropdown-content {
+	display: block;
+}
+
 .dropdown-content a {
     color: black;
     padding: 8px 16px;
