@@ -284,6 +284,10 @@ footer p{
 /*End of Label*/
 
 /* Experience */
+
+.experience {
+	font-family:'Open Sans', sans-serif;
+}
 .experience h3{
   border-top: 5px solid #f49b42;
   margin-top: 0.5em;
