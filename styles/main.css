@@ -317,8 +317,8 @@ footer p{
 	font-family:'Open Sans', sans-serif;color:#444;
 }
 */
-.no-line{
-	margin-top: 0.2em;
+.no-line li{
+	margin-top: 10em;
 	margin-bottom: 0em;
 	margin-left: 2em;
 	margin-right: 0em;
