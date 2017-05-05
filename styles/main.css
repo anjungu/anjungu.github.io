@@ -331,3 +331,41 @@ a:hover {
 	color: blue;
 	text-decoration: none;
 }
+
+/*imported */
+.light-grey,.hover-light-grey:hover,.wlight-gray,.hover-light-gray:hover{
+	color:#000!important;
+	background-color:#f1f1f1!important
+}
+.teal,.hover-teal:hover{
+	color:#fff!important;
+	background-color:#009688!important
+}
+.round-small{
+	border-radius:2px
+}
+.round,.ound-medium{
+	border-radius:4px
+}
+.round-large{
+	border-radius:8px
+}
+.round-xlarge{
+	border-radius:16px
+}
+.round-xxlarge{
+	border-radius:32px
+}
+.center .bar{
+	display:inline-block;
+	width:auto
+}
+.w3-center .w3-bar-item{
+	text-align:center
+}
+.container:after,.container:before,.row:after,.row:before,.bar:before,.bar:after{
+	content:"";
+	display:table;
+	clear:both
+}
+/*end of importation*/
