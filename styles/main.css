@@ -9,7 +9,7 @@ h5 {margin: 0; font-size: 1.3125em; line-height: 1.14285714285714285714285714285
 h6 {margin: 0; font-size: 1.125em; line-height: 1.3333333333333333333333333333333em; margin-bottom: 1em} /* 18px / 24px */
 p, ul, blockquote, pre, td, th, label {margin: 0; font-size: 1em; line-height: 1.5em; margin-bottom: 1.5em} /* 16px / 24px */
 
-p.ns{font-size: 1em; margin: 0.125em 0em 0em 0em;} /* p.ns{font-size: 0.875em; margin: 0em 0em 0em 5em;} 16px / 24px */
+p.ns{font-size: 1em; margin: 0.5em 0em 0em 0em;} /* p.ns{font-size: 0.875em; margin: 0em 0em 0em 5em;} 16px / 24px */
 small, p.small {margin: 0; font-size: 0.875em; line-height: 1.7142857142857142857142857142857em; margin-bottom: 1.7142857142857142857142857142857em} /* 14px / 24px */
 
 /* Wrapper */
