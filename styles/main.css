@@ -318,6 +318,7 @@ footer p{
 }
 */
 .no-line li{
+	color: red;
 	margin-top: 10em;
 	margin-bottom: 0em;
 	margin-left: 2em;
