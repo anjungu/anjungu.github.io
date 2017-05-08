@@ -315,6 +315,7 @@ footer p{
 
 /* Item Box */
 .item-box{
+  margin-top:20px;
   padding: 6px 6px 6px 10px;
   border: 1px solid #f1f1f1;
   -webkit-border-radius: 4px;
