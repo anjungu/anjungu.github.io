@@ -418,3 +418,27 @@ a:hover {
 	clear:both
 }
 /*end of importation*/
+
+
+
+
+
+
+
+
+
+/*test*/
+ /* COLUMN GRID */
+ .g1,.g2,.g3 {display:inline; float: left}
+
+ /* 2 COLUMN GRID */
+ .g1 {width:48.0%}
+ .g2 {width:48.0%}
+ .g3 {width:98.0%}
+}
+/* column grid */
+.g1,.g2,.g3{display:block; position: relative; margin-left: 1%; margin-right: 1%}
+/* 1 column grid */
+.g1,.g2,.g3{width:98.0%}
+
+
