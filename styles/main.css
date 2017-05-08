@@ -148,7 +148,7 @@ footer p{
 }
 
 .tab a:hover {
-	color: black;
+	color: #f49b42;
 	text-decoration: none;
 	background-color: #f1f1f1;
 }
@@ -365,7 +365,7 @@ footer p{
 	text-decoration: none;
 }
 .none-a:hover {
-	color: blue;
+	color: #f49b42;
 	font-weight:bold;
 	/*font-size: 125%;*/
 	/*background-color: yellow;*/
@@ -378,7 +378,7 @@ a {
 	text-decoration: none;
 }
 a:hover {
-	color: blue;
+	color: #f49b42;
 	text-decoration: none;
 }
 
