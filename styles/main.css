@@ -429,7 +429,7 @@ a:hover {
 
 /*test*/
  /* COLUMN GRID */
- .g1,.g2,.g3 {display:inline; float: left}
+ .g1,.g2,.g3 {display:inline; float: auto}
 
  /* 2 COLUMN GRID */
  .g1 {width:48.0%}
@@ -440,5 +440,6 @@ a:hover {
 .g1,.g2,.g3{display:block; position: relative; margin-left: 1%; margin-right: 1%}
 /* 1 column grid */
 .g1,.g2,.g3{width:98.0%}
+
 
 
