@@ -312,6 +312,39 @@ footer p{
   clear: both;
 }
 /*End of Experience*/
+
+/* Item Box */
+.item-box{
+  padding: 6px 6px 6px 10px;
+  border: 1px solid #f1f1f1;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+}
+.item-box i{
+  float: left;
+  margin-right: 12px;
+}
+.item-box i.icon-envelope{
+
+}
+.item-box .item-data{
+ margin-top: 6px;
+}
+.item-box .item-data h3{
+  line-height: 1em;
+  margin: 3px 0px 0px 0px;
+  font-size: 1em;
+
+}
+.item-box .item-data p{
+  margin: 0px;
+  font-size: 12px;
+  color: #999;
+}
+/* End of Item Box */
+
+
 /*
 .ll{
 	font-family:'Open Sans', sans-serif;color:#444;
