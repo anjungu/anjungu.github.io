@@ -18,6 +18,10 @@ small, p.small {margin: 0; font-size: 0.875em; line-height: 1.714285714285714285
   padding-top: 50px;
   max-width: 1020px;
 }
+.note{
+  padding-top: 0px;
+  max-width: 1020px;
+}
 .wrapper{
   margin: 0 auto;
 }
@@ -323,6 +327,7 @@ footer p{
   border-radius: 4px;
 	width: 47%;
 	display: inline-block;
+	background-color: white;
 }
 .item-box img{
   float: left;
