@@ -398,7 +398,8 @@ div.gallery {
     margin: 5px;
     border: 1px solid #ccc;
     /*float: left;*/
-    width: 180px;
+    display:inline-block;
+    width: 160px;
 }
 
 div.gallery:hover {
@@ -406,8 +407,8 @@ div.gallery:hover {
 }
 
 div.gallery img {
-    width: 100%;
-    height: auto;
+    width: 160px;
+    height: 200px;
 }
 
 div.desc {
