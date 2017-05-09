@@ -399,7 +399,7 @@ div.gallery {
     border: 1px solid #ccc;
     /*float: left;*/
     display:inline-block;
-    width: 160px;
+    width: 170px;
 }
 
 div.gallery:hover {
@@ -407,12 +407,12 @@ div.gallery:hover {
 }
 
 div.gallery img {
-    width: 160px;
-    height: 200px;
+    width: 170px;
+    height: 220px;
 }
 
 div.desc {
-    padding: 15px;
+    padding: 10px;
     text-align: center;
 }
 /*End of Gallery*/
