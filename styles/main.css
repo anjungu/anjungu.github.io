@@ -411,16 +411,17 @@ div.gallery img {
     height: 220px;
 }
 
-div.gallery landscape {
-    width: 220px;
-    height: 170px;
-}
-
 div.desc {
     padding: 10px;
     text-align: center;
 }
 /*End of Gallery*/
+
+
+.landscape {
+    width: 220px;
+    height: 170px;
+}
 
 
 /*imported */
