@@ -408,6 +408,7 @@ div.gallery:hover {
 
 div.desc {
     padding: 10px;
+	font-size: 100%;
     text-align: center;
 }
 /*End of Gallery*/
