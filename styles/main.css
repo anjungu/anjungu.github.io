@@ -414,15 +414,24 @@ div.desc {
 
 /*Img*/
 .landscape {
-    width: 220px;
-    height: 170px;
+    width: 200px;
+    height: 160px;
 }
 
 .portrait {
-    width: 170px;
-    height: 220px;
+    width: 160px;
+    height: 200px;
 }
 
+.landscape8x12 {
+    width: 240px;
+    height: 160px;
+}
+
+.portrait8x12 {
+    width: 160px;
+    height: 240px;
+}
 /*End of Img*/
 
 /*imported */
